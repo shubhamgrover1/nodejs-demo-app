@@ -18,5 +18,5 @@ On every push to the `main` branch:
 ## 🧪 Run Locally
 
 ```bash
-docker pull <your-dockerhub-username>/nodejs-demo-app:latest
-docker run -p 3000:3000 <your-dockerhub-username>/nodejs-demo-app
+docker pull shubhamgrover1/nodejs-demo-app:latest
+docker run -p 3000:3000 shubhamgrover1/nodejs-demo-app
